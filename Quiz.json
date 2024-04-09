@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "Combien font 2 + 2 ?",
+      "answers": ["3", "4", "5", "6"],
+      "correctAnswerIndex": 1,
+      "feedback": "Bonne réponse!",
+      "difficulty": "facile",
+      "category": "arithmétique"
+    },
+    {
+      "question": "Quel est le résultat de 5 * 3 ?",
+      "answers": ["10", "15", "20", "25"],
+      "correctAnswerIndex": 1,
+      "feedback": "C'est ça!",
+      "difficulty": "moyen",
+      "category": "multiplication"
+    },
+    {
+      "question": "Quel est le carré de 9 ?",
+      "answers": ["18", "27", "36", "81"],
+      "correctAnswerIndex": 3,
+      "feedback": "Exact!",
+      "difficulty": "difficile",
+      "category": "exponentiation"
+    }
+  ]
+}
